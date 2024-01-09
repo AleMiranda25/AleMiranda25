@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AleMiranda25
+- 👋 Hi, I’m Ale Miranda
 - 👀 I’m interested in Anime, Games and team work
 - 🌱 I’m currently learning javascript, html and python
-- 💞️ I’m looking to collaborate on projects for games
+- 💞️ I’m looking to collaborate on projects for games, websites, SPA
 - 📫 How to reach me. Mail: alemiranda2511@gmail.com
 
 <!---
